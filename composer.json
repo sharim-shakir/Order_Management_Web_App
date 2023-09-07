@@ -1,0 +1,8 @@
+{
+    "name": "yii2-starter-kit/yii2-starter-kit",
+    "description": "Yii2 Starter Kit Application Template",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "minimum-stability": "stable",
+    "require": {}
+}
