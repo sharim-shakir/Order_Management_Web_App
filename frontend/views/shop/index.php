@@ -16,7 +16,7 @@ $this->params['breadcrumbs'][] = $this->title;
     padding: 20px;
     text-align: center;
 }
-
+/*
 .item-image {
     max-width: 100%;
     height: auto;
@@ -31,7 +31,7 @@ $this->params['breadcrumbs'][] = $this->title;
     background-color: #007bff;
     color: #fff;
     border: none;
-}
+}*/
 
 </style>
 
@@ -49,3 +49,4 @@ $this->params['breadcrumbs'][] = $this->title;
         <?php endforeach; ?>
     </div>
 </div>
+        
